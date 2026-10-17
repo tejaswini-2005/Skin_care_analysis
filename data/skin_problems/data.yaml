@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Acne', 'Dark Circle', 'Pigmentation', 'Spots', 'Wrinkle']
+
+roboflow:
+  workspace: hetvi-eww-zdjt2
+  project: skin-problem-image-segmentation-02
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hetvi-eww-zdjt2/skin-problem-image-segmentation-02/dataset/3
