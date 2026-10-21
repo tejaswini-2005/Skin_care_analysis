@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+tfhub_cache/
+data/
+model/

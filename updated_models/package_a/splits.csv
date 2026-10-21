@@ -1,0 +1,629 @@
+path,label,group_id,split
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\10951-20210120-Kulit-Wajah-Mengelupas-setelah-Memakai-Cream-RV-3163688354.jpg,dry,0,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\9fudCkQDrn-1253843318.jpg,dry,1,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\cara+mengatasi+kulit+wajah+kering+kasar-1030850258.jpg,dry,2,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry01.jpg,dry,3,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry02.jpg,dry,4,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry06.jpg,dry,5,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry10.jpg,dry,6,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry11.jpg,dry,7,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry12.jpg,dry,8,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry13.jpg,dry,9,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry14.jpg,dry,10,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry15.jpg,dry,11,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry16.jpg,dry,12,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry17.jpg,dry,13,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry18.jpg,dry,14,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry19.jpg,dry,15,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry20.jpg,dry,16,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry22.jpg,dry,17,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry24.jpg,dry,18,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry25.jpg,dry,19,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry27.jpg,dry,20,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry28.jpg,dry,21,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry31.jpg,dry,22,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry32.jpg,dry,23,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry33.jpg,dry,24,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry34.jpg,dry,25,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry38.jpg,dry,26,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry39.jpg,dry,27,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry40.jpg,dry,28,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry41.jpg,dry,29,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry42.jpg,dry,30,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry43.jpg,dry,31,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry44.jpg,dry,32,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry45.jpg,dry,10,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry47.jpg,dry,33,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry48.jpg,dry,34,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry50.jpg,dry,35,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry52.jpg,dry,36,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry53.jpg,dry,37,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry55.jpg,dry,38,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry56.jpg,dry,39,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry57.jpg,dry,40,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry58.jpg,dry,41,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_01.jpg,dry,42,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_02.jpg,dry,43,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_03.jpg,dry,44,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_05.jpg,dry,45,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_06.jpg,dry,46,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_07.jpg,dry,47,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_08.jpg,dry,48,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_09.jpg,dry,49,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_10.jpg,dry,50,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_100.jpg,dry,51,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_11.jpg,dry,52,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_12.jpg,dry,53,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_13.jpg,dry,54,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_14.jpg,dry,55,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_16.jpg,dry,56,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_17.jpg,dry,57,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_21.jpg,dry,1,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_22.jpg,dry,58,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_23.JPG,dry,59,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_24.JPG,dry,60,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_25.JPG,dry,61,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_26.jpg,dry,5,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_27.jpg,dry,62,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_28.jpg,dry,63,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_29.jpg,dry,64,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_30.jpg,dry,65,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_32.jpg,dry,10,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_33.jpg,dry,66,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_34.jpg,dry,67,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_36.jpg,dry,68,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_37.jpg,dry,69,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_38.jpg,dry,70,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_39.jpg,dry,71,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_40.jpg,dry,72,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_41.jpg,dry,73,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_42.jpg,dry,74,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_43.jpg,dry,75,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_44.jpg,dry,76,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_45.jpg,dry,77,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_46.JPG,dry,78,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_47.jpg,dry,79,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_48.jpg,dry,80,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_49.jpg,dry,81,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_50.jpg,dry,51,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_51.jpg,dry,42,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_52.jpg,dry,43,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_53.jpg,dry,44,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_54.jpg,dry,82,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_55.jpg,dry,45,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_56.jpg,dry,46,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_57.jpg,dry,47,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_58.jpg,dry,48,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_59.jpg,dry,49,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_60.jpg,dry,50,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_61.jpg,dry,52,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_62.jpg,dry,53,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_63.jpg,dry,54,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_64.jpg,dry,55,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_66.jpg,dry,56,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_67.jpg,dry,57,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_71.jpg,dry,1,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_72.jpg,dry,58,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_73.JPG,dry,59,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_74.JPG,dry,60,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_75.JPG,dry,61,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_76.jpg,dry,5,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_77.jpg,dry,62,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_78.jpg,dry,63,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_79.jpg,dry,64,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_80.jpg,dry,65,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_82.jpg,dry,10,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_83.jpg,dry,66,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_84.jpg,dry,67,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_86.jpg,dry,68,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_87.jpg,dry,69,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_88.jpg,dry,70,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_89.jpg,dry,71,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_90.jpg,dry,72,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_91.jpg,dry,73,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_92.jpg,dry,74,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_93.jpg,dry,75,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_94.jpg,dry,76,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_95.jpg,dry,77,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_96.JPG,dry,78,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_97.jpg,dry,79,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_98.jpg,dry,80,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\dry_99.jpg,dry,81,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\Kulit-Kering-Mengelupas_-Ini-X-Pengobatan-yang-Bisa-Dilakukan-3309930410.jpg,dry,83,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\Kulit-Wajah-Mengelupas_-Ini-X-Hal-yang-Bisa-Jadi-Penyebabnya-2669278259.jpg,dry,84,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\Pakai-Kosmetik-untuk-Kulit-Kering-1503565573.jpg,dry,85,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\Penyebab-Kulit-Wajah-Kering-dan-Mengelupas-3731323614.jpg,dry,5,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\shutterstock_1894619392-421541778.jpg,dry,86,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (1)..jpg,dry,87,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (1).j.jpg,dry,88,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (1).jpg,dry,89,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (1).w.jpg,dry,90,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (10)..jpg,dry,91,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (10).j.jpg,dry,92,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (11)..jpg,dry,93,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (11).j.jpg,dry,94,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (2).j.jpg,dry,88,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (2).jpg,dry,95,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (2).w.jpg,dry,96,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (3)..jpg,dry,97,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (3).j.jpg,dry,98,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (3).jpg,dry,99,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (4)..jpg,dry,100,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (4).j.jpg,dry,5,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (4).jpg,dry,89,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (4).w.jpg,dry,96,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (5)..jpg,dry,1,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (5).j.jpg,dry,101,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (5).jpg,dry,95,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (6)..jpg,dry,102,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (6).j.jpg,dry,103,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (6).jpg,dry,99,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (7)..jpg,dry,104,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (7).j.jpg,dry,105,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (7).jpg,dry,106,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (8)..jpg,dry,107,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (8).j.jpg,dry,108,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (8).jpg,dry,106,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (9)..jpg,dry,109,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\dry_data\ubah (9).j.jpg,dry,110,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (1).jpg,normal,111,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (100).jpg,normal,112,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (101).jpg,normal,113,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (102).jpg,normal,114,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (103).jpg,normal,115,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (104).jpg,normal,116,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (105).jpg,normal,117,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (106).jpg,normal,118,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (107).jpg,normal,119,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (108).jpg,normal,120,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (109).jpg,normal,121,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (11).jpg,normal,122,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (110).jpg,normal,123,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (111).jpg,normal,124,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (112).jpg,normal,125,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (113).jpg,normal,126,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (114).jpg,normal,127,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (115).jpg,normal,128,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (116).jpg,normal,129,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (117).jpg,normal,130,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (118).jpg,normal,131,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (119).jpg,normal,132,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (120).jpg,normal,133,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (121).jpg,normal,134,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (122).jpg,normal,135,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (123).jpg,normal,136,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (124).jpg,normal,137,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (125).jpg,normal,138,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (127).jpg,normal,139,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (128).jpg,normal,140,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (13).jpg,normal,141,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (14).jpg,normal,142,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (15).jpg,normal,143,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (16).jpg,normal,144,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (17).jpg,normal,145,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (19).jpg,normal,146,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (20).jpg,normal,147,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (21).jpg,normal,148,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (22).jpg,normal,149,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (23).jpg,normal,150,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (24).jpg,normal,151,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (26).jpg,normal,152,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (27).jpg,normal,153,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (28).jpg,normal,154,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (29).jpg,normal,155,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (30).jpg,normal,156,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (31).jpg,normal,157,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (32).jpg,normal,158,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (33).jpg,normal,159,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (34).jpg,normal,160,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (35).jpg,normal,161,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (36).jpg,normal,162,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (37).jpg,normal,163,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (38).jpg,normal,164,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (39).jpg,normal,165,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (4).jpg,normal,166,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (40).jpg,normal,167,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (41).jpg,normal,168,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (42).jpg,normal,169,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (43).jpg,normal,170,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (44).jpg,normal,171,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (45).jpg,normal,172,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (46).jpg,normal,173,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (47).jpg,normal,174,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (48).jpg,normal,175,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (49).jpg,normal,176,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (5).jpg,normal,177,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (50).jpg,normal,178,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (52).jpg,normal,179,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (53).jpg,normal,180,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (54).jpg,normal,181,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (55).jpg,normal,182,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (56).jpg,normal,183,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (57).jpg,normal,184,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (58).jpg,normal,185,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (59).jpg,normal,186,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (6).jpg,normal,187,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (60).jpg,normal,188,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (61).jpg,normal,189,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (62).jpg,normal,190,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (63).jpg,normal,191,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (64).jpg,normal,192,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (65).jpg,normal,193,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (66).jpg,normal,194,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (67).jpg,normal,195,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (68).jpg,normal,196,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (69).jpg,normal,197,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (7).jpg,normal,198,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (70).jpg,normal,199,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (71).jpg,normal,200,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (72).jpg,normal,201,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (73).jpg,normal,202,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (74).jpg,normal,203,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (75).jpg,normal,204,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (76).jpg,normal,205,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (77).jpg,normal,206,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (78).jpg,normal,207,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (79).jpg,normal,208,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (8).jpg,normal,209,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (80).jpg,normal,210,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (81).jpg,normal,211,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (82).jpg,normal,212,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (83).jpg,normal,213,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (84).jpg,normal,214,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (85).jpg,normal,215,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (86).jpg,normal,216,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (87).jpg,normal,217,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (88).jpg,normal,218,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (89).jpg,normal,219,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (9).jpg,normal,220,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (90).jpg,normal,221,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (91).jpg,normal,222,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (92).jpg,normal,223,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (94).jpg,normal,224,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (95).jpg,normal,225,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (96).jpg,normal,226,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (97).jpg,normal,227,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (98).jpg,normal,228,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\normal (99).jpg,normal,229,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\Photo (1761).jpg,normal,230,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\Photo (1880).jpg,normal,231,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (1).j.jpg,normal,232,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (1).jpg,normal,233,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (1).w.jpg,normal,234,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (10).j.jpg,normal,235,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (10).jpg,normal,236,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (11).j.jpg,normal,237,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (11).jpg,normal,238,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (12).j.jpg,normal,239,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (12).jpg,normal,240,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (13).j.jpg,normal,241,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (13).jpg,normal,242,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (14).j.jpg,normal,243,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (14).jpg,normal,244,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (15).j.jpg,normal,245,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (15).jpg,normal,246,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (16).j.jpg,normal,247,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (16).jpg,normal,248,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (17).j.jpg,normal,249,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (17).jpg,normal,250,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (18).j.jpg,normal,251,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (18).jpg,normal,252,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (19).j.jpg,normal,253,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (19).jpg,normal,254,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (2).j.jpg,normal,255,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (2).jpg,normal,256,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (2).w.jpg,normal,257,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (20).j.jpg,normal,258,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (20).jpg,normal,259,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (21).j.jpg,normal,260,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (21).jpg,normal,261,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (22).j.jpg,normal,262,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (22).jpg,normal,263,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (23).j.jpg,normal,264,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (23).jpg,normal,265,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (24).j.jpg,normal,266,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (24).jpg,normal,267,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (25).j.jpg,normal,268,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (25).jpg,normal,269,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (26).j.jpg,normal,270,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (26).jpg,normal,271,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (27).j.jpg,normal,272,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (27).jpg,normal,273,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (28).j.jpg,normal,272,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (28).jpg,normal,274,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (29).j.jpg,normal,275,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (29).jpg,normal,276,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (3).j.jpg,normal,277,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (3).jpg,normal,278,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (30).j.jpg,normal,279,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (4).j.jpg,normal,280,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (4).jpg,normal,281,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (5).j.jpg,normal,282,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (5).jpg,normal,283,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (6).j.jpg,normal,284,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (6).jpg,normal,285,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (7).j.jpg,normal,286,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (7).jpg,normal,287,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (8).j.jpg,normal,288,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (8).jpg,normal,289,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (9).j.jpg,normal,290,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\normal_data\ubah (9).jpg,normal,291,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_01.jpg,oily,292,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_02.jpg,oily,293,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_03.jpg,oily,294,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_04.jpg,oily,295,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_05.jpg,oily,296,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_06.jpg,oily,297,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_07.jpg,oily,298,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_08.jpg,oily,299,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_10.jpg,oily,300,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_100.jpg,oily,301,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_101.jpg,oily,302,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_102.jpg,oily,292,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_103.jpg,oily,293,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_104.jpg,oily,294,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_105.jpg,oily,295,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_106.jpg,oily,296,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_107.jpg,oily,297,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_108.jpg,oily,298,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_109.jpg,oily,299,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_11.jpg,oily,303,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_111.jpg,oily,300,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_112.jpg,oily,301,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_113.jpg,oily,302,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_114.jpg,oily,303,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_115.jpg,oily,304,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_116.jpg,oily,305,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_118.jpg,oily,306,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_119.jpg,oily,307,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_12.jpg,oily,304,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_120.jpg,oily,308,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_121.jpg,oily,309,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_122.jpg,oily,310,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_123.jpg,oily,311,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_124.jpg,oily,312,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_125.jpg,oily,313,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_126.jpg,oily,314,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_127.jpg,oily,315,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_128.jpg,oily,316,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_129.jpg,oily,317,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_13.jpg,oily,305,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_15.jpg,oily,306,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_16.jpg,oily,307,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_161.jpg,oily,318,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_162.jpg,oily,319,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_163.jpg,oily,320,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_164.jpg,oily,321,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_165.jpg,oily,322,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_166.jpg,oily,323,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_167.jpg,oily,324,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_168.jpg,oily,325,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_169.jpg,oily,326,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_17.jpg,oily,308,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_170.jpg,oily,327,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_171.jpg,oily,328,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_172.jpg,oily,329,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_173.jpg,oily,330,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_174.jpg,oily,331,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_175.jpg,oily,332,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_176.jpg,oily,333,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_177.jpg,oily,334,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_179.jpg,oily,335,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_18.jpg,oily,309,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_180.jpg,oily,336,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_181.jpg,oily,337,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_182.jpg,oily,338,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_183.jpg,oily,339,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_184.jpg,oily,340,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_185.jpg,oily,341,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_186.jpg,oily,342,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_188.jpg,oily,343,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_189.jpg,oily,307,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_19.jpg,oily,310,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_191.jpg,oily,344,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_192.jpg,oily,345,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_193.jpg,oily,346,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_195.jpg,oily,347,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_196.jpg,oily,348,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_197.jpg,oily,349,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_198.jpg,oily,350,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_199.jpg,oily,351,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_20.jpg,oily,311,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_200.jpg,oily,309,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_202.jpg,oily,352,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_21.jpg,oily,312,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_22.jpg,oily,313,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_23.jpg,oily,314,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_24.jpg,oily,315,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_25.jpg,oily,316,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_26.jpg,oily,317,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_58.jpg,oily,318,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_59.jpg,oily,319,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_60.jpg,oily,320,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_61.jpg,oily,321,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_62.jpg,oily,322,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_63.jpg,oily,323,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_64.jpg,oily,324,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_65.jpg,oily,325,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_66.jpg,oily,326,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_67.jpg,oily,327,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_68.jpg,oily,328,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_69.jpg,oily,329,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_70.jpg,oily,330,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_71.jpg,oily,331,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_72.jpg,oily,332,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_73.jpg,oily,333,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_74.jpg,oily,334,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_76.jpg,oily,335,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_77.jpg,oily,336,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_78.jpg,oily,337,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_79.jpg,oily,338,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_80.jpg,oily,339,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_81.jpg,oily,340,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_82.jpg,oily,341,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_83.jpg,oily,342,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_85.jpg,oily,343,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_86.jpg,oily,307,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_88.jpg,oily,344,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_89.jpg,oily,345,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_90.jpg,oily,346,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_92.jpg,oily,347,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_93.jpg,oily,348,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_94.jpg,oily,349,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_95.jpg,oily,350,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_96.jpg,oily,351,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_97.jpg,oily,309,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\oily_99.jpg,oily,352,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (1).j.jpg,oily,353,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (1).jpg,oily,354,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (1).w.jpg,oily,355,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (10).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (11).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (12).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (13).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (14).jpg,oily,358,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (15).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (16).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (17).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (18).jpg,oily,359,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (19).jpg,oily,360,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (2).j.jpg,oily,353,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (2).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (2).w.jpg,oily,355,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (20).jpg,oily,360,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (21).jpg,oily,362,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (22).jpg,oily,363,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (23).jpg,oily,364,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (24).jpg,oily,365,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (25).jpg,oily,366,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (26).jpg,oily,367,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (27).jpg,oily,367,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (28).jpg,oily,367,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (29).jpg,oily,368,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (3).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (30).jpg,oily,368,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (31).jpg,oily,369,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (32).jpg,oily,370,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (4).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (5).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (6).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (7).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (8).jpg,oily,371,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\train\oily_data\ubah (9).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (12)..jpg,dry,372,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (12).j.jpg,dry,373,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (13)..jpg,dry,374,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (13).j.jpg,dry,375,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (14)..jpg,dry,376,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (14).j.jpg,dry,16,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (15)..jpg,dry,377,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (15).j.jpg,dry,106,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (16).j.jpg,dry,83,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (17).j.jpg,dry,84,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (18).j.jpg,dry,85,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (19).j.jpg,dry,101,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (20).j.jpg,dry,378,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (21).j.jpg,dry,49,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (22).j.jpg,dry,10,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (24).j.jpg,dry,379,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (25).j.jpg,dry,380,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (26).j.jpg,dry,0,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (27).j.jpg,dry,381,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (28).j.jpg,dry,106,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (29).j.jpg,dry,382,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (30).j.jpg,dry,383,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (31).j.jpg,dry,384,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (33).j.jpg,dry,5,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (35).j.jpg,dry,101,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (37).j.jpg,dry,385,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (38).j.jpg,dry,386,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (42).j.jpg,dry,101,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (46).j.jpg,dry,49,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (47).j.jpg,dry,387,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\dry_data\ubah (52).j.jpg,dry,388,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (30).jpg,normal,389,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (31).j.jpg,normal,390,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (31).jpg,normal,391,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (32).j.jpg,normal,392,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (32).jpg,normal,393,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (33).j.jpg,normal,394,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (33).jpg,normal,395,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (34).j.jpg,normal,396,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (34).jpg,normal,397,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (35).j.jpg,normal,398,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (35).jpg,normal,399,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (36).j.jpg,normal,400,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (36).jpg,normal,401,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (37).j.jpg,normal,402,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (38).j.jpg,normal,403,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (39).j.jpg,normal,404,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (40).j.jpg,normal,405,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (41).j.jpg,normal,406,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (42).j.jpg,normal,407,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (43).j.jpg,normal,408,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (44).j.jpg,normal,409,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (45).j.jpg,normal,410,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (46).j.jpg,normal,411,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (47).j.jpg,normal,412,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (48).j.jpg,normal,413,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (49).j.jpg,normal,412,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (50).j.jpg,normal,288,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (51).j.jpg,normal,414,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (52).j.jpg,normal,415,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (53).j.jpg,normal,416,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (54).j.jpg,normal,417,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (55).j.jpg,normal,418,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (56).j.jpg,normal,419,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (57).j.jpg,normal,420,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (58).j.jpg,normal,421,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (59).j.jpg,normal,422,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (60).j.jpg,normal,423,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (61).j.jpg,normal,424,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (62).j.jpg,normal,425,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (63).j.jpg,normal,426,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (64).j.jpg,normal,427,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (65).j.jpg,normal,428,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (66).j.jpg,normal,429,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (67).j.jpg,normal,430,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (68).j.jpg,normal,431,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\normal_data\ubah (69).j.jpg,normal,432,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (33).jpg,oily,433,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (34).jpg,oily,434,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (35).jpg,oily,435,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (36).jpg,oily,436,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (37).jpg,oily,354,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (38).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (39).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (40).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (41).jpg,oily,361,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (42).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (43).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (44).jpg,oily,371,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (45).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (46).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (47).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (48).jpg,oily,356,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (49).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (50).jpg,oily,358,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (51).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (52).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (53).jpg,oily,357,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (54).jpg,oily,359,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (55).jpg,oily,360,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (56).jpg,oily,360,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (57).jpg,oily,362,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (58).jpg,oily,363,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (59).jpg,oily,364,validation
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (60).jpg,oily,365,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (61).jpg,oily,366,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (62).jpg,oily,367,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (63).jpg,oily,367,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (64).jpg,oily,367,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (65).jpg,oily,368,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (66).jpg,oily,368,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (67).jpg,oily,369,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (68).jpg,oily,370,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (69).jpg,oily,433,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (70).jpg,oily,434,test
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (71).jpg,oily,435,train
+E:\Realtime_skin_care_analyst\data\raw\skin_type\validation\oily_data\ubah (72).jpg,oily,436,test
