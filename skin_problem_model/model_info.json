@@ -1,0 +1,14 @@
+{
+  "framework": "Ultralytics YOLO segmentation",
+  "checkpoint": "best.pt",
+  "class_names": [
+    "Acne",
+    "Dark Circle",
+    "Pigmentation",
+    "Spots",
+    "Wrinkle"
+  ],
+  "input_image_size_used_for_training": 640,
+  "dataset_license": "CC BY 4.0",
+  "dataset_source": "https://universe.roboflow.com/hetvi-eww-zdjt2/skin-problem-image-segmentation-02/dataset/3"
+}
